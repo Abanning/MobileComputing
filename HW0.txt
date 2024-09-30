@@ -1,0 +1,27 @@
+Alex Banning
+September 27th, 2024
+Mobile Computing CSS 545 - UW Bothell MSCSSE
+HW0 - Getting Started
+
+1 - My intended platform is iOS for the final project.
+2 - My intended programming language is Swift. I will use XCode's built-in
+    developer tools and test on devices I own.
+3 - I am interested in cross-platform development, but because I am
+    relatively inexperienced, I am not certain yet. If time permits, then yes.
+4 - 
+    a. I chose iOS for two reasons. Firstly, I have some very limited experience
+        developing for iOS already. I worked for my friend for a short time
+        building a cookbook app that saves recipes, tracks nutrition, and automates
+        grocery lists based on a user's calendar availability and previously liked meals.
+        Secondly, I recently purchased a Macbook for the first time (being an avid PC only guy
+        for years), and I am actually now excited at the prospect of using XCode's features
+        for Apple developers.
+    b. I plan on using Swift because it is the most up-to-date/preferred language for iOS
+        develoopment because of the built-in safety features and clean syntax. I also spent
+        a lot of time learning how Swift and SwiftUI work, and would like to put those skills
+        to use in a project.
+    c. I am hesitant to believe I would be able to accomplish a cross-platform application at this
+        point based on my experience level. I also tend to get big ideas, and my first thought for
+        the final project is to make a game. Configuring that big of a project for two platforms 
+        in the limited time we have seems bold; however, I am always open to it and if I feel confident
+        in my application with some time left I may attempt it.
